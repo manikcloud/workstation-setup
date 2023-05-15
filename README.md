@@ -4,7 +4,7 @@ This repository contains scripts for setting up a workstation with zsh and oh-my
 
 ## Prerequisites
 
-You will need: 
+You will need:  
 
 - Git
 - Curl
